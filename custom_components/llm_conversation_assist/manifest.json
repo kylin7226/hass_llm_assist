@@ -16,7 +16,6 @@
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/hzz765/hass_llm_assist/issues",
   "requirements": [
-    "langchain>=0.1.0",
     "dashscope",
     "qianfan"
   ],
